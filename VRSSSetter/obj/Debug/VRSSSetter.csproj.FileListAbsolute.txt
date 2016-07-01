@@ -1,0 +1,9 @@
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\bin\Debug\VRSSSetter.exe.config
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\bin\Debug\VRSSSetter.exe
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\bin\Debug\VRSSSetter.pdb
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\obj\Debug\VRSSSetter.csprojResolveAssemblyReference.cache
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\obj\Debug\VRSSSetter.Form1.resources
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\obj\Debug\VRSSSetter.Properties.Resources.resources
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\obj\Debug\VRSSSetter.csproj.GenerateResource.Cache
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\obj\Debug\VRSSSetter.exe
+C:\Users\jeakamioutlook.com\Desktop\VRSSSetter\VRSSSetter\obj\Debug\VRSSSetter.pdb
